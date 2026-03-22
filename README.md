@@ -1,6 +1,7 @@
 # FormulaBeautifyXL
 Add-in phân tích công thức Excel thành dạng cây để dễ dàng chỉnh sửa
- 
+ [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/FormulaBeautifyXL/total.svg)](https://github.com/SanbiVN/FormulaBeautifyXL/releases/) 
+
 [TẢI XUỐNG](https://github.com/SanbiVN/FormulaBeautifyXL/releases/tag/formula_beautify_excel)
  
  
