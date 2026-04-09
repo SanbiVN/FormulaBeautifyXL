@@ -49,6 +49,5 @@ Tắt tự động kiểm tra cập nhật | =Fx_UpdateCheck_Off() |
 
 
 # Cài đặt: 
-cài đặt Add-in trong Tab Developer hoặc sao chép vào thư mục khởi động XLStart của ứng dụng Excel.
+Cài đặt Add-in trong Tab Developer hoặc sao chép vào thư mục khởi động XLStart của ứng dụng Excel.
 
-Đăng góp ý và câu họi tại diễn đàn Giải Pháp Excel: [Giải Pháp Excel](https://www.giaiphapexcel.com/diendan/threads/159912/)
